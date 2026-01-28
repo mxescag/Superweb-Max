@@ -16,3 +16,4 @@
 
 - index.html : web home
 - welcome.html : web de benvinguda
+- Añadido una página web de productos divertidos.
